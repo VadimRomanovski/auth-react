@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "auth-secret",
+    "mongoUri": "mongodb+srv://vadim:12345678A!@cluster0-lpqng.mongodb.net/auth-react?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"    
+}
